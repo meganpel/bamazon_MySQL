@@ -12,10 +12,13 @@ To start using Bamazon run `node bamazonCustomer.js`
 
 ### Screenshots
 Initial Screen
+
 ![initial screen](https://raw.githubusercontent.com/meganpel/bamazon_MySQL/master/images/Image_1.png)
 
 Successful Product Purchase
+
 ![product purchase](https://raw.githubusercontent.com/meganpel/bamazon_MySQL/master/images/Image_2.png)
 
 Invalid Product Number
+
 ![invalid product number](https://raw.githubusercontent.com/meganpel/bamazon_MySQL/master/images/Image_3.png)
